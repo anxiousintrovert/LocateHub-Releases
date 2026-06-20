@@ -1,0 +1,11 @@
+# Build artifacts belong on GitHub Releases, not the repository branch.
+*.exe
+*.zip
+*.apk
+*.sha256
+*.sha256.txt
+*.checksum.txt
+
+# Local OS/editor clutter.
+Thumbs.db
+.DS_Store

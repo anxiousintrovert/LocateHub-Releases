@@ -1,12 +1,14 @@
 # LocateHub Releases
 
-LocateHub is a vibe-coded Windows locate-ticket management app for jobs, locate tickets, dig permits, utility responses, job packages, file storage, backups, and lightweight team access.
+LocateHub is a vibe-coded Windows locate-ticket management app for Manitoba Click Before You Dig locate workflows, including jobs, locate tickets, dig permits, utility responses, job packages, file storage, backups, and lightweight team access.
 
 This repository is for public release downloads and user documentation. Source code is not published here.
 
 ## Important Notice
 
 LocateHub is vibe-coded software. It was built through an iterative AI-assisted workflow and is provided as-is.
+
+LocateHub is currently designed around Manitoba locates from Click Before You Dig. Other provinces, utilities, ticket layouts, or confirmation formats may not import or package correctly unless support for that format has been specifically added and tested.
 
 LocateHub has not had a manual third-party security audit. It is not recommended to expose a LocateHub Host Server directly to the public internet. Use it on a trusted local network or behind a properly secured private network/VPN unless a qualified security review is completed.
 

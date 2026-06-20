@@ -4,6 +4,8 @@ This guide covers LocateHub Local Mode, Connected Mode, and Self-Hosted Server M
 
 LocateHub is vibe-coded software. It has not had a manual third-party security audit. Do not expose a LocateHub Host Server directly to the public internet unless a qualified security review and hardening pass have been completed. Prefer trusted LAN, VPN, or private network access.
 
+LocateHub is currently built for Manitoba Click Before You Dig locate workflows. Manitoba ticket parsing, response handling, dig permit handling, package building, and locate-area map overlays are the primary supported workflow. Other ticket sources or provinces should be treated as unsupported or limited until that format has been specifically added and tested.
+
 ## 1. Local Mode
 
 Use Local Mode when one Windows computer will manage LocateHub data locally.
@@ -13,7 +15,7 @@ Use Local Mode when one Windows computer will manage LocateHub data locally.
 - Single-user desktop workflow.
 - Offline work.
 - Testing LocateHub before setting up a server.
-- Keeping tickets, responses, permits, and packages on one machine.
+- Keeping Manitoba Click Before You Dig tickets, responses, permits, and packages on one machine.
 
 ### Setup
 
